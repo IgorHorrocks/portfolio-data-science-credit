@@ -16,7 +16,7 @@ This repository contains projects developed as part of my journey to update and 
 ### 1. Exploratory Data Analysis – Credit Risk
 **Goal**: Identify patterns and variables associated with loan default.  
 **Tools**: `pandas`, `seaborn`, `matplotlib`, data cleaning and profiling  
- [View project]([(https://github.com/IgorHorrocks/portfolio-data-science-credit/blob/master/exploratory_data_analysis.ipynb])
+ [View project](https://github.com/IgorHorrocks/portfolio-data-science-credit/blob/master/exploratory_data_analysis.ipynb)
 
 ---
 
